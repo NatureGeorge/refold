@@ -9,3 +9,4 @@ Reproduction of computational studies of biomacromolecule structures.
 * 2022-05-20: [`S1359-0278(97)00041-2`](notebooks/S1359-0278(97)00041-2.ipynb)
 * 2022-05-23: [`PhysRevLett.92.218101`](notebooks/PhysRevLett.92.218101.ipynb)
 * 2022-05-24: [`HICSS.1994.323564`](notebooks/HICSS.1994.323564.ipynb)
+* 2022-06-08: [`pro.4155`](notebooks/pro.4155.ipynb)
